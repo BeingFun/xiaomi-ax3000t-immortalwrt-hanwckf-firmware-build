@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
 
 env:
-  REPO_URL: https://github.com/hanwckf/bl-mt798x.git
+  REPO_URL: https://github.com/BeingFun/bl-mt798x.git
   REPO_BRANCH: master
   TZ: Asia/Shanghai
 
